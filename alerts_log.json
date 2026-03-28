@@ -1,0 +1,2969 @@
+[
+  {
+    "timestamp": "2026-03-28 17:40:08",
+    "cycle": 1,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:40:12",
+    "cycle": 1,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:40:16",
+    "cycle": 1,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:40:43",
+    "cycle": 2,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:40:46",
+    "cycle": 2,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:40:49",
+    "cycle": 2,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:41:44",
+    "cycle": 3,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:41:48",
+    "cycle": 3,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:41:52",
+    "cycle": 3,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:42:42",
+    "cycle": 4,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:42:46",
+    "cycle": 4,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:42:50",
+    "cycle": 4,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:43:44",
+    "cycle": 5,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:43:48",
+    "cycle": 5,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:43:51",
+    "cycle": 5,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:44:43",
+    "cycle": 6,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:44:47",
+    "cycle": 6,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:44:50",
+    "cycle": 6,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:45:45",
+    "cycle": 7,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:45:49",
+    "cycle": 7,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:45:53",
+    "cycle": 7,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:46:42",
+    "cycle": 8,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:46:46",
+    "cycle": 8,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:46:50",
+    "cycle": 8,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:47:43",
+    "cycle": 9,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:47:46",
+    "cycle": 9,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:47:50",
+    "cycle": 9,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:48:41",
+    "cycle": 10,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:48:45",
+    "cycle": 10,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:48:48",
+    "cycle": 10,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:49:42",
+    "cycle": 11,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:49:45",
+    "cycle": 11,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:49:49",
+    "cycle": 11,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:50:42",
+    "cycle": 12,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:50:45",
+    "cycle": 12,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:50:49",
+    "cycle": 12,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:51:46",
+    "cycle": 13,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:51:50",
+    "cycle": 13,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:51:54",
+    "cycle": 13,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:52:43",
+    "cycle": 14,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:52:46",
+    "cycle": 14,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:52:50",
+    "cycle": 14,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:53:44",
+    "cycle": 15,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:53:47",
+    "cycle": 15,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:53:51",
+    "cycle": 15,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:54:44",
+    "cycle": 16,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:54:48",
+    "cycle": 16,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:54:52",
+    "cycle": 16,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:55:43",
+    "cycle": 17,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:55:47",
+    "cycle": 17,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 17:55:50",
+    "cycle": 17,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:09:12",
+    "cycle": 18,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:09:14",
+    "cycle": 18,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:09:16",
+    "cycle": 18,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:19:24",
+    "cycle": 19,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:19:28",
+    "cycle": 19,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:19:32",
+    "cycle": 19,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:19:50",
+    "cycle": 20,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:19:52",
+    "cycle": 20,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:19:54",
+    "cycle": 20,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:20:49",
+    "cycle": 21,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:20:53",
+    "cycle": 21,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:20:56",
+    "cycle": 21,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:22:00",
+    "cycle": 22,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:22:03",
+    "cycle": 22,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:22:07",
+    "cycle": 22,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:22:53",
+    "cycle": 23,
+    "ticker": "OIL",
+    "convergence_score": 0.681,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "High",
+    "entry_price": 473.22,
+    "stop_loss": 454.4,
+    "target_price": 506.25,
+    "time_horizon": 20,
+    "patterns": [
+      {
+        "name": "Bollinger Band Squeeze",
+        "confidence": 58,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "OIL currently has a convergence score of 0.68, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.681",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -26.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:22:55",
+    "cycle": 23,
+    "ticker": "BHARTIARTL",
+    "convergence_score": 0.804,
+    "convergence_label": "STRONG BUY SIGNAL",
+    "action": "BUY",
+    "confidence_plain": "Very High",
+    "entry_price": 1825.46,
+    "stop_loss": 1770.9,
+    "target_price": 1935.0,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish MACD Crossover",
+        "confidence": 60,
+        "win_rate": 0.7143
+      }
+    ],
+    "explanation": "BHARTIARTL currently has a convergence score of 0.80, which falls in the 'STRONG BUY SIGNAL' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a buy stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.804",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.000",
+      "Sentiment contribution: 0.000"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "yfinance quarterly data"
+    ],
+    "top_signal_headline": "Earnings Miss: -0.7% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  },
+  {
+    "timestamp": "2026-03-28 18:22:58",
+    "cycle": 23,
+    "ticker": "HCLTECH",
+    "convergence_score": 0.518,
+    "convergence_label": "WATCH",
+    "action": "WATCH",
+    "confidence_plain": "Medium",
+    "entry_price": 1350.76,
+    "stop_loss": 1297.7,
+    "target_price": 1411.4,
+    "time_horizon": 10,
+    "patterns": [
+      {
+        "name": "Bullish RSI Divergence",
+        "confidence": 70,
+        "win_rate": 0.0
+      }
+    ],
+    "explanation": "HCLTECH currently has a convergence score of 0.52, which falls in the 'WATCH' zone. The strongest push is from chart and insider signals, while earnings and sentiment add supporting strength. This suggests a watch stance right now, but you should keep tracking new filings and quarterly updates.",
+    "key_points": [
+      "Chart contribution: 0.384",
+      "Insider contribution: 0.000",
+      "Earnings contribution: 0.006",
+      "Sentiment contribution: 0.129"
+    ],
+    "sources": [
+      "Chart agent output",
+      "Radar agent output",
+      "Sentiment agent output",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan",
+      "ta_processor pattern scan"
+    ],
+    "top_signal_headline": "Earnings Beat: +2.0% vs estimates",
+    "rag_context_count": 5,
+    "pipeline_steps": [
+      "detect",
+      "enrich",
+      "alert"
+    ],
+    "autonomous": true
+  }
+]
