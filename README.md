@@ -14,6 +14,19 @@
 
 ---
 
+## ⚡ Quick Navigation
+
+| Section | Jump |
+|--------|------|
+| 🔑 API Setup | [Go to Setup](#step-3--set-up-your-api-keys) |
+| 🚀 Run Project | [Go to Quick Start](#-quick-start) |
+| 📡 API Docs | [View Endpoints](#-api-endpoints) |
+| 🛠️ Issues | [Fix Problems](#-troubleshooting) |
+
+---
+
+---
+
 ## 🏆 ET AI Hackathon 2026 — Problem Statement #6
 
 > *"India has 14 crore+ demat accounts, but most retail investors are flying blind — reacting to tips, missing filings, unable to read technicals, and managing portfolios on gut feel. ET Markets has the data. Build the intelligence layer that turns data into actionable, money-making decisions."*
