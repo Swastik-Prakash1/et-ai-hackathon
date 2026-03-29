@@ -358,7 +358,7 @@ Alpha per signal: ₹11,786 on ₹2L average retail portfolio
 ## 👨‍💻 Author
 
 **Swastik Prakash**
-3rd Year CS Undergraduate — JIIT Noida (2027)
+3rd Year CS Undergraduate 
 [github.com/Swastik-Prakash1](https://github.com/Swastik-Prakash1)
 
 ---
